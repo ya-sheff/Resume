@@ -14,4 +14,4 @@ theme: Cayman
 
 I live in Krasnodar and i love travel
 
-![foto2](5-6CeXrHEpV23P3lEO7EkO18eddJBxHb4Crp5--9elsfhzPXkPMswSV8scwtbfSUQECLjjACnBBtWTjRJ-1rtyJA.jpg)
+![foto2](/Users/aroslav/Desktop/foto2.jpg)
